@@ -15,3 +15,18 @@ canvas{
 	margin-top: 80px;
 	margin-left: 20px;
 }
+
+#logo{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	z-index: 1;
+}
+
+#copyright{
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	z-index: 2;
+	font-size: 10px;
+}
